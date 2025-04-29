@@ -48,7 +48,6 @@ Created interactive visualizations and dashboards for analysis.
 ## Data Cleaning
 
 **Handled:**
-- Missing player names → "Unknown"
 - Negative economy rates → Data validation
 - Duplicate ball entries → Removal
 
