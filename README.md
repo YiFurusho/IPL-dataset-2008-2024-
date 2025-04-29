@@ -94,6 +94,8 @@ Actionable tip: Bowlers should focus on accuracy – even 1-2 fewer extras per m
 
 ## Image
 ![image alt](https://github.com/YiFurusho/IPL-dataset-2008-2024-/blob/0b685ca4f9e6fa32bd9526758b8543f2404782d8/Screenshot%202025-04-27%20182659.png)
+![image alt](https://github.com/YiFurusho/IPL-dataset-2008-2024-/blob/e3971a61719360e476e98d27aeaf54582bfcd37c/Screenshot%202025-04-27%20182723.png)
+
 
 
 
